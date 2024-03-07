@@ -39,7 +39,7 @@ Azure Container for PyTorch is a lightweight, standalone environment that includ
 
 ## Supported configurations for Azure Container for PyTorch (ACPT)
 
-**Description**: The Azure Curated Environment for PyTorch is our latest PyTorch curated environment. It's optimized for large, distributed deep learning workloads and comes prepackaged with the best of Microsoft technologies for accelerated training, for example, OnnxRuntime Training (ORT), DeepSpeed, MSCCL, etc.
+**Description**: The Azure Curated Environment for PyTorch is our latest PyTorch curated environment. It's optimized for large, distributed deep learning workloads and comes prepackaged with the best of Microsoft technologies for accelerated training, for example, Onnx Runtime Training (ORT), DeepSpeed, MSCCL, etc.
 
 The following configurations are supported:
 
